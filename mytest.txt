@@ -1,3 +1,0 @@
-i love java 
-update test
-diff test
